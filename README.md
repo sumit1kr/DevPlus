@@ -238,8 +238,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 - Name: Sumit Kumar
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-id
+- GitHub: https://github.com/DevPlus
+- LinkedIn: https://www.linkedin.com/in/sumit-kumar-45b39b29b/
 
 ## 🧪 .env.example (Sample)
 ```env
