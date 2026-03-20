@@ -1,3 +1,10 @@
+---
+title: DevPulse
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: ui/app.py
+---
+
 # DevPulse: AI Code Review and Technical Debt Analyst
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
