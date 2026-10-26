@@ -139,7 +139,7 @@ devpluse/
 
 ## ⚙️ Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sumit1kr/DevPlus
 cd devpluse
 python -m venv .venv
 ```
